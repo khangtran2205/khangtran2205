@@ -38,7 +38,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,dotnet,py,django,fastapi,ts,nest,next,react&theme=light" alt="skills logos" height="40"  />
+    <img src="https://skillicons.dev/icons?i=java,go,py,fastapi,ts,next,react&theme=light" alt="skills logos" height="40"  />
   </a>
 </p>
 
@@ -50,7 +50,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,bash,nginx,terraform,redis,grafana,prometheus,mongo,postgres,elasticsearch,kafka&theme=light" alt="skills logos" height="40"  />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,bash,nginx,terraform,redis,grafana,prometheus,postgres,elasticsearch,kafka&theme=light" alt="skills logos" height="40"  />
   </a>
 </p>
 
@@ -62,7 +62,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,ubuntu,workers,visualstudio,vscode,git,github,githubactions,md,obsidian,twitter,discord,sentry&theme=light" height="40" alt="skills logos"  />
+    <img src="https://skillicons.dev/icons?i=apple,vscode,neovim,git,github,gitlab&theme=light" height="40" alt="skills logos"  />
   </a>
 </p>
 
@@ -73,12 +73,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=colintran2205&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=default&hide_border=false&order=2&custom_title=Languages" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khangtran2205&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=default&hide_border=false&order=2&custom_title=Languages" height="150" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=colintran2205&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="200" alt="streak graph"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/colintran2205/colintran2205/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/khangtran2205/khangtran2205/output/snake.svg" alt="Snake animation" />
 
 ###
