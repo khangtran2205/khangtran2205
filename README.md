@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/khangtran2003/" target="_blank">
+  <a href="https://www.linkedin.com/in/khangtran2205/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.facebook.com/tdhk.2205/" target="_blank">
@@ -74,7 +74,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khangtran2205&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=default&hide_border=false&order=2&custom_title=Languages" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=colintran2205&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="200" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=khangtran2205&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="200" alt="streak graph"  />
 </div>
 
 ###
