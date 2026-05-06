@@ -38,7 +38,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,go,py,fastapi,ts,next,react&theme=light" alt="skills logos" height="40"  />
+    <img src="https://skillicons.dev/icons?i=go,py,ts,next,react&theme=light" alt="skills logos" height="40"  />
   </a>
 </p>
 
